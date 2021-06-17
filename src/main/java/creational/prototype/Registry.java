@@ -28,7 +28,7 @@ public class Registry {
 
     }
 
-    // Set deefault information.
+    // Set default information.
     private void loadItems() {
 
         Movie movie = new Movie();
